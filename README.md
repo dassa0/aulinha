@@ -1,2 +1,2 @@
 # aulinha
-teste/ depositório
+teste depositório
